@@ -9,4 +9,7 @@ def name
   @this_god_name
 end
 
+def bark
+  puts "Woof!"
+end
 end
