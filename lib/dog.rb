@@ -6,7 +6,7 @@ def name=(dogname)
 end
 
 def name
-  @this_god_name
+  return @this_god_name
 end
 
 def bark
